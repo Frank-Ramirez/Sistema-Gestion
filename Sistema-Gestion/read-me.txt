@@ -1,0 +1,1 @@
+ejecutar servidor de spring y abrir el archivo registrar.html en el puerto 8080 para poder crear un usuario
